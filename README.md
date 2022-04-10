@@ -1,7 +1,5 @@
 ### Olá, Sou o Rafael Claudio
 
-Here are some ideas to get you started:
-
 - 👨‍💻 Atualmente atuo com Front-end
 - 📚 Estudando Reactjs, Nextjs e Typescript
 - 💌 Contate-me no e-mail: rafaeltulaclaudio@gmail.com
