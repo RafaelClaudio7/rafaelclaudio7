@@ -1,8 +1,8 @@
 ### Olá, Sou o Rafael Claudio
 
-- 👨‍💻 Atualmente atuo com Front-end
-- 📚 Estudando Reactjs, Nextjs e Typescript
-- 💌 Contate-me no e-mail: rafaeltulaclaudio@gmail.com
+- 👨‍💻 Front-end Dev
+- 📚 Studying Reactjs, Nextjs e Typescript
+- 💌 e-mail: rafaeltulaclaudio@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaelclaudio7">
