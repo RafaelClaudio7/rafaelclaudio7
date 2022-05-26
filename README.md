@@ -1,4 +1,4 @@
-### Olá, Sou o Rafael Claudio
+### Hi, I'm Rafael Claudio
 
 - 👨‍💻 Front-end Dev
 - 📚 Studying Reactjs, Nextjs and Typescript
