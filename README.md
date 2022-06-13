@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael Claudio
 
 - 👨‍💻Front-end Developer
-- 📚 Studying Reactjs, Nextjs and Typescript
+- 📚 Studying Reactjs
 - 💌 e-mail: rafaeltulaclaudio@gmail.com
 
 <div align="center">
