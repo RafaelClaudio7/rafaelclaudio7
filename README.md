@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael Claudio
 
-- 👨‍💻Front-end Developer
+- 👨‍💻 Developer
 - 📚 Studying Reactjs and Node
 - 💌 e-mail: rafaeltulaclaudio@gmail.com
 
