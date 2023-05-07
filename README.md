@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael Claudio
 
-- 👨‍💻 Front-end Developer
-- 📚 Studying Nextjs, Node.
+- 👨‍💻 Front-end and Mobile Developer
+- 📚 Studying Nextjs.
 - 💌 e-mail: rafaeltulaclaudio@gmail.com
 
 <div align="center">
